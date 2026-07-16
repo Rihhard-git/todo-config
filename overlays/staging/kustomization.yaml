@@ -8,7 +8,7 @@ namespace: project-staging
 images:
 - name: PROJECT/BACKEND
   newName: raihhardv/todo-backend
-  newTag: f191f817c0ed049b2a4a0d8e534126a9e6afe7e7
+  newTag: 91676d086a8015d6564e0f48898b73a888708f08
 - name: PROJECT/FRONTEND
   newName: raihhardv/todo-frontend
-  newTag: f191f817c0ed049b2a4a0d8e534126a9e6afe7e7
+  newTag: 91676d086a8015d6564e0f48898b73a888708f08
