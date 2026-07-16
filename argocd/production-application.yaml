@@ -7,9 +7,9 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Rihhard-git/kubernetes
+    repoURL: https://github.com/Rihhard-git/todo-config
     targetRevision: main
-    path: the_project/overlays/production
+    path: overlays/production
 
   destination:
     server: https://kubernetes.default.svc
