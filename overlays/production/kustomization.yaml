@@ -8,7 +8,7 @@ namespace: project-production
 images:
 - name: PROJECT/BACKEND
   newName: raihhardv/todo-backend
-  newTag: c7ccb185897a039dc8753cb4adea4264f19187c7
+  newTag: b0f40772c9ce9b5aace3f60677f46b4c3bbbd94f
 - name: PROJECT/FRONTEND
   newName: raihhardv/todo-frontend
-  newTag: c7ccb185897a039dc8753cb4adea4264f19187c7
+  newTag: b0f40772c9ce9b5aace3f60677f46b4c3bbbd94f
