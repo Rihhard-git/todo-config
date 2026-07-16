@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Rihhard-git/todo-config
+    repoURL: https://github.com/Rihhard-git/todo-config.git
     targetRevision: main
     path: overlays/staging
 
